@@ -3,3 +3,14 @@
 *.zip
 *.7z
 *.tar
+# IDEA
+.idea/
+*.iml
+out/
+target/
+# 课件、word、安装包
+word/
+*.exe
+*.zip
+*.rar
+*.7z
